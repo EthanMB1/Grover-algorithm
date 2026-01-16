@@ -1,7 +1,7 @@
-# Grover’s Algorithm — Classical vs Quantum Search
+# Grover’s Algorithm — Classical (Monte Carlo Simulaton) vs Quantum Search
 
 This repository contains a Python implementation of Grover’s algorithm,
-alongside a classical brute-force search, developed as part of an MSci Physics programme.
+alongside a classical brute-force search using a Monte Carlo simulation, developed as part of an MSci Physics programme.
 
 The project focuses on algorithmic structure, computational complexity,
 and performance scaling, demonstrating how quantum amplitude amplification
